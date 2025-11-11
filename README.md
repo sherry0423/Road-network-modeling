@@ -1,11 +1,11 @@
-# 🦽 Road Network Modeling for Wheelchair Accessibility
+# Road Network Modeling for Wheelchair Accessibility
 
 This repository provides two core **Grasshopper battery files** —  
 `zebra generation_final.gh`(zebra generation_try1/2/3 is process documentation) and `capture point offset.gh` — for the **systematic modeling of wheelchair-friendly non-motorized networks**.
 
 ---
 
-## 📘 Overview
+## Overview
 
 Urban renewal and accessibility design increasingly rely on **data-informed modeling** rather than manual measurement.  
 This toolset automates two essential steps in the computational workflow for **wheelchair-accessible street network analysis**:
@@ -20,7 +20,7 @@ Together, these tools **replace traditional manual surveying** with a **high-eff
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - 🔹 **Automated pedestrian system generation** — Derives zebra crossings and continuous walkways from existing urban layouts.  
 - 🔹 **Sampling precision** — Captures exact offset points for wheelchair trajectory or accessibility evaluation.  
@@ -29,7 +29,7 @@ Together, these tools **replace traditional manual surveying** with a **high-eff
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - **Rhinoceros 7.0 or later**  
 - **Grasshopper (built-in visual programming interface)**  
@@ -40,7 +40,7 @@ Together, these tools **replace traditional manual surveying** with a **high-eff
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Open Rhino and launch Grasshopper.  
 2. Load either `.gh` file from this repository.  
